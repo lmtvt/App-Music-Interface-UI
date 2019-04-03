@@ -1,0 +1,4 @@
+#Tue Apr 02 09:28:32 CEST 2019
+base.0=/home/lucamtvt/Desktop/Flutter test/music_interface_ui/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
